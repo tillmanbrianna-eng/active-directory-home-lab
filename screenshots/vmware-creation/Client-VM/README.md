@@ -1,1 +1,0 @@
-# Client VM Creation Screenshots
