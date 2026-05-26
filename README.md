@@ -10,7 +10,7 @@ This project is a virtual Active Directory home lab built in VMware Workstation.
 - Domain Controller: Windows Server 2025 (DC01)
 - Client Machine: Windows 11 Pro
 - Domain Name: homelab.local
-- 
+  
 ## Objectives
 
 - Build a virtual Active Directory environment using VMware Workstation
