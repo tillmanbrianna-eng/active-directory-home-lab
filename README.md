@@ -101,10 +101,10 @@ User accounts and security groups were created within Active Directory Users and
 These accounts were used to test authentication, domain login functionality, and resource organization within the homelab.local domain.
 
 ### Domain User Accounts
-![Domain Users](screenshots/user-groups/domain-users.png)
+![Domain Users](screenshots/users-groups/domain-users.png)
 
 ### Security Groups
-![Security Groups](screenshots/user-groups/security-groups.png)
+![Security Groups](screenshots/users-groups/security-groups.png)
 
 ## Validation and Domain Authentication
 
@@ -113,7 +113,7 @@ The Windows 11 Pro client machine was successfully joined to the homelab.local d
 Network communication, DNS resolution, and domain authentication were verified to confirm proper Active Directory functionality within the lab environment.
 
 ### Domain Membership Verification
-![Domain Membership](screenshots/validation/domain-membership.png)
+![Domain Membership](screenshots/validation/client-domain-membership.png)
 
 ### Domain Authentication Validation
 ![whoami Validation](screenshots/validation/domain-verification.png)
