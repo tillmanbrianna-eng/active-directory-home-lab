@@ -128,7 +128,7 @@ The client computer was moved into the appropriate Organizational Unit (OU) to s
 ![Default Container](screenshots/computer-management/ad-computer-default-container.png)
 
 ### Moving Computer Object to OU
-![Move Computer](screenshots/computer-management/ad-move-computer-to-computer-ou.png)
+![Move Computer](screenshots/computer-management/ad-move-computer-to-computer ou.png)
 
 ### Computer Object in Organizational Unit
 ![Final OU Placement](screenshots/computer-management/ad-computer-in-computer-ou.png)
